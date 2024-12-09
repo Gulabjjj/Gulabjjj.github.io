@@ -14,7 +14,7 @@
 ## Other Details
 
 | Factor               | Details                        |
-|----------------------|--------------------------------|
+|--------------|--------------------------------|
 | Favorite Programming Language | Python                     |
 | Dream Job            | Software Developer or Data Scientist |
 | Favorite Subject     | Data Structures and Algorithms |
